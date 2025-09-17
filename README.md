@@ -15,7 +15,7 @@ The system was designed to:
 
 **⚙️ Features**
 1. Time-Off Application: Employees submit leave requests with details (dates, number of days, notes).
-2. Manager Notification: Managers receive automated alerts when a request is submitted.
+2. Manager Notification: Managers receive automated email alerts when a request is submitted.
 3. Approval Workflow: Managers approve or reject requests with optional comments.
 4. Employee Notification: Employees are notified of the decision in real time.
 5. Leave Balance Management: Approved requests deduct from balances, which reset to 22 days annually.
@@ -50,6 +50,7 @@ flowchart TD
     D --> G[Notify Employee of Approval]
     E --> H[Notify Employee of Rejection]
     F --> I[Reset Balance at Start of Year]
+    F --> J[Reset Balance at Start of Year]
 ```
 
  <br />
