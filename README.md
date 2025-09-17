@@ -50,7 +50,7 @@ flowchart TD
     D --> G[Notify Employee of Approval]
     E --> H[Notify Employee of Rejection]
     F --> I[Reset Balance at Start of Year]
-    F --> J[Reset Balance at Start of Year]
+    F --> L[Reset Balance at Start of Year]
 ```
 
  <br />
