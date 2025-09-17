@@ -28,7 +28,7 @@ The system was designed to:
 
 <img width="1406" height="406" alt="Screenshot 2025-09-17 at 8 59 39 PM" src="https://github.com/user-attachments/assets/a1c62e8d-938e-4999-b192-62a56af8ac02" />
 
-<img width="1413" height="206" alt="Screenshot 2025-09-17 at 9 00 10 PM" src="https://github.com/user-attachments/assets/c67d23d1-1bc8-409a-ac63-dccf2e4fa93c" />
+
 
 
 
@@ -64,14 +64,32 @@ The image of the form for the employees to log their leave requests is shown bel
 
 
 
+<img width="1440" height="760" alt="Screenshot 2025-09-17 at 9 34 31 PM" src="https://github.com/user-attachments/assets/1b568076-0ca1-450c-89ba-58985372e9ae" />
+
+
 <img width="1051" height="458" alt="Screenshot 2025-09-17 at 9 27 36 PM" src="https://github.com/user-attachments/assets/784f04a9-30ee-456c-9419-5d909fc22018" />
 
 - [Manager Notification via Zapier]
 
 
 
+<img width="249" height="116" alt="Screenshot 2025-09-17 at 9 30 56 PM" src="https://github.com/user-attachments/assets/809685ee-6f0a-485a-85a0-fa8b1e87994f" />
 
-B --> C{Manager Decision}
+- {Manager Decision}
+
+
+
+
+<img width="1413" height="206" alt="Screenshot 2025-09-17 at 9 00 10 PM" src="https://github.com/user-attachments/assets/c67d23d1-1bc8-409a-ac63-dccf2e4fa93c" />
+
+-Update Airtable Record
+
+
+
+<img width="998" height="776" alt="Screenshot 2025-09-17 at 9 35 22 PM" src="https://github.com/user-attachments/assets/d1c79fa0-f76a-48db-afc5-5d611cf07fe4" />
+
+- Update Employee Leave Balance
+
 
 
 
