@@ -40,9 +40,8 @@ The system was tested end-to-end to confirm that:
 - Leave balances update properly.
 
 
-
+```mermaid
 flowchart TD
-
     A[Employee Submits Time-Off Request] --> B[Manager Notification via Zapier]
     B --> C{Manager Decision}
     C -->|Approve| D[Update Airtable Record: Approved]
@@ -51,11 +50,21 @@ flowchart TD
     D --> G[Notify Employee of Approval]
     E --> H[Notify Employee of Rejection]
     F --> I[Reset Balance at Start of Year]
+```
+
+
+
 
 
 The image of the form for the employees to log their leave requests is shown below.
 
 <img width="638" height="389" alt="Screenshot 2025-09-17 at 9 02 34 PM" src="https://github.com/user-attachments/assets/91163f70-bfae-4b0f-9311-d578129e8c69" />
+==A[Employee Submits Time-Off Request]==
+
+
+<img width="1051" height="458" alt="Screenshot 2025-09-17 at 9 27 36 PM" src="https://github.com/user-attachments/assets/784f04a9-30ee-456c-9419-5d909fc22018" />
+==B[Manager Notification via Zapier]==
+
 
 
 
