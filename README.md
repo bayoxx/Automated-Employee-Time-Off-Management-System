@@ -61,7 +61,7 @@ The image of the form for the employees to log their leave requests is shown bel
 <img width="638" height="389" alt="Screenshot 2025-09-17 at 9 02 34 PM" src="https://github.com/user-attachments/assets/91163f70-bfae-4b0f-9311-d578129e8c69" />
 
 - [Employee Submits Time-Off Request]
-
+ <br />
 
 
 <img width="1440" height="760" alt="Screenshot 2025-09-17 at 9 34 31 PM" src="https://github.com/user-attachments/assets/1b568076-0ca1-450c-89ba-58985372e9ae" />
@@ -70,7 +70,7 @@ The image of the form for the employees to log their leave requests is shown bel
 <img width="1051" height="458" alt="Screenshot 2025-09-17 at 9 27 36 PM" src="https://github.com/user-attachments/assets/784f04a9-30ee-456c-9419-5d909fc22018" />
 
 - [Manager Notification via Zapier]
-
+ <br />
 
 
 <img width="249" height="116" alt="Screenshot 2025-09-17 at 9 30 56 PM" src="https://github.com/user-attachments/assets/809685ee-6f0a-485a-85a0-fa8b1e87994f" />
@@ -82,7 +82,7 @@ The image of the form for the employees to log their leave requests is shown bel
 
 <img width="1413" height="206" alt="Screenshot 2025-09-17 at 9 00 10 PM" src="https://github.com/user-attachments/assets/c67d23d1-1bc8-409a-ac63-dccf2e4fa93c" />
 
--Update Airtable Record
+- Update Airtable Record
 
 
 
