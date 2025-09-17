@@ -52,7 +52,7 @@ flowchart TD
     F --> I[Reset Balance at Start of Year]
     E --> I[Reset Balance at Start of Year]
 ```
-      **Automated Time-Off Request Workflow**
+      Automated Time-Off Request Workflow
       
  <br />
 
