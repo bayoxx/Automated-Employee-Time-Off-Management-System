@@ -56,11 +56,12 @@ flowchart TD
 
 
 
-The image of the form for the employees to log their leave requests is shown below.
+The images below show how the steps were carried out:
 
 <img width="638" height="389" alt="Screenshot 2025-09-17 at 9 02 34 PM" src="https://github.com/user-attachments/assets/91163f70-bfae-4b0f-9311-d578129e8c69" />
 
 - [Employee Submits Time-Off Request]
+  
  <br />
 
 
@@ -70,13 +71,15 @@ The image of the form for the employees to log their leave requests is shown bel
 <img width="1051" height="458" alt="Screenshot 2025-09-17 at 9 27 36 PM" src="https://github.com/user-attachments/assets/784f04a9-30ee-456c-9419-5d909fc22018" />
 
 - [Manager Notification via Zapier]
+  
  <br />
 
 
 <img width="249" height="116" alt="Screenshot 2025-09-17 at 9 30 56 PM" src="https://github.com/user-attachments/assets/809685ee-6f0a-485a-85a0-fa8b1e87994f" />
 
 - {Manager Decision}
-
+  
+ <br />
 
 
 
@@ -84,6 +87,7 @@ The image of the form for the employees to log their leave requests is shown bel
 
 - Update Airtable Record
 
+ <br />
 
 
 <img width="998" height="776" alt="Screenshot 2025-09-17 at 9 35 22 PM" src="https://github.com/user-attachments/assets/d1c79fa0-f76a-48db-afc5-5d611cf07fe4" />
@@ -91,6 +95,6 @@ The image of the form for the employees to log their leave requests is shown bel
 - Update Employee Leave Balance
 
 
-
+ <br />
 
 
