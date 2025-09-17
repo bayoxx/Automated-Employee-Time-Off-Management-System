@@ -2,20 +2,17 @@
 
 
 **📌 Introduction**
-
 This project focused on building an automated employee time-off management system using Airtable and Zapier. The goal was to streamline the submission, approval, and tracking of Paid Time Off (PTO) requests, while ensuring accurate leave balances and minimising manual administrative work. Each employee is entitled to 22 working days of PTO annually, with balances resetting automatically at the start of the year.
 
 **🎯 Objectives**
 
 The system was designed to:
-
 - Centralise employee, manager, and leave request data.
 - Automate notifications and approval workflows.
 - Keep employees updated on the status of their requests.
 - Manage leave balances automatically.
 
 **⚙️ Features**
-
 1. Time-Off Application: Employees submit leave requests with details (dates, number of days, notes).
 2. Manager Notification: Managers receive automated alerts when a request is submitted.
 3. Approval Workflow: Managers approve or reject requests with optional comments.
@@ -26,9 +23,11 @@ The system was designed to:
 - Airtable: Served as the database to store employee, manager, and leave request records.
 - Zapier + Airtable Automations: Managed notifications, approvals, and automatic balance updates.
 
-<img width="1406" height="406" alt="Screenshot 2025-09-17 at 8 59 39 PM" src="https://github.com/user-attachments/assets/a1c62e8d-938e-4999-b192-62a56af8ac02" />
+
+<img width="1159" height="328" alt="Screenshot 2025-09-17 at 9 43 48 PM" src="https://github.com/user-attachments/assets/1fff7245-82bc-4377-b944-5752f04c4136" />
 
 
+ <br />
 
 
 
@@ -52,7 +51,7 @@ flowchart TD
     F --> I[Reset Balance at Start of Year]
 ```
 
-
+ <br />
 
 
 
@@ -97,4 +96,7 @@ The images below show how the steps were carried out:
 
  <br />
 
+
+## Conclusion
+This project successfully demonstrated how automation can streamline employee time-off management, reducing manual effort while improving accuracy and transparency. By integrating Airtable and Zapier, I built a system that ensures requests are properly tracked, balances remain up to date, and both employees and managers stay informed at every step. Beyond solving an HR pain point, this project highlights my ability to design scalable, no-code/low-code solutions that drive efficiency and can be adapted for broader organisational workflows.
 
