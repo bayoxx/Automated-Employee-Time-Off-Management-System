@@ -59,11 +59,13 @@ flowchart TD
 The image of the form for the employees to log their leave requests is shown below.
 
 <img width="638" height="389" alt="Screenshot 2025-09-17 at 9 02 34 PM" src="https://github.com/user-attachments/assets/91163f70-bfae-4b0f-9311-d578129e8c69" />
+
 - [Employee Submits Time-Off Request]
 
 
 
 <img width="1051" height="458" alt="Screenshot 2025-09-17 at 9 27 36 PM" src="https://github.com/user-attachments/assets/784f04a9-30ee-456c-9419-5d909fc22018" />
+
 - [Manager Notification via Zapier]
 
 
