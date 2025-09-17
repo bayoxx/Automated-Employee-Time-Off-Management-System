@@ -26,6 +26,12 @@ The system was designed to:
 - Airtable: Served as the database to store employee, manager, and leave request records.
 - Zapier + Airtable Automations: Managed notifications, approvals, and automatic balance updates.
 
+<img width="1406" height="406" alt="Screenshot 2025-09-17 at 8 59 39 PM" src="https://github.com/user-attachments/assets/a1c62e8d-938e-4999-b192-62a56af8ac02" />
+
+<img width="1413" height="206" alt="Screenshot 2025-09-17 at 9 00 10 PM" src="https://github.com/user-attachments/assets/c67d23d1-1bc8-409a-ac63-dccf2e4fa93c" />
+
+
+
 ✅ Testing
 The system was tested end-to-end to confirm that:
 - Requests are captured accurately.
@@ -45,6 +51,15 @@ flowchart TD
     D --> G[Notify Employee of Approval]
     E --> H[Notify Employee of Rejection]
     F --> I[Reset Balance at Start of Year]
+
+
+The image of the form for the employees to log their leave requests is shown below.
+
+<img width="638" height="389" alt="Screenshot 2025-09-17 at 9 02 34 PM" src="https://github.com/user-attachments/assets/91163f70-bfae-4b0f-9311-d578129e8c69" />
+
+
+
+
 
 
 
