@@ -2,6 +2,7 @@
 
 
 **📌 Introduction**
+
 This project focused on building an automated employee time-off management system using Airtable and Zapier. The goal was to streamline the submission, approval, and tracking of Paid Time Off (PTO) requests, while ensuring accurate leave balances and minimising manual administrative work. Each employee is entitled to 22 working days of PTO annually, with balances resetting automatically at the start of the year.
 
 **🎯 Objectives**
